@@ -19,6 +19,12 @@
 - [Many links on golang.org Documentation](https://golang.org/doc/)
   - Especially see: **codewalks**,
 
+### Cheatsheets
+
+- [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+- [a8m/go-lang-cheat-sheet](https://github.com/a8m/go-lang-cheat-sheet)
+- [devhints.io/go](https://devhints.io/go)
+
 ### Practice
 
 - [Gophercieses](https://gophercises.com)
